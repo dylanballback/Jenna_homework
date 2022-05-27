@@ -1,0 +1,2 @@
+
+  word_list = ["PASTA", "PLANT", "FRIED", "SMART", "DRINK", "LATER", "FIRST", "STRAP", "LOCAL", "APPLE", "CANDY", "TIGER", "OFTEN", "WATER", "ORBIT", "DREAM", "QUEEN", "GRASS", "CORAL", "SPOON", "PIZZA"]
